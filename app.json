@@ -13,7 +13,8 @@
       "infoPlist": {
         "UIViewControllerBasedStatusBarAppearance": true,
         "ITSAppUsesNonExemptEncryption": false
-      }
+      },
+      "bundleIdentifier": "com.bibblebabl.expo-router-forms-components"
     },
     "android": {
       "adaptiveIcon": {
@@ -49,7 +50,11 @@
       "reactCompiler": true
     },
     "extra": {
-      "eas": {}
-    }
+      "eas": {
+        "projectId": "41fe3061-e586-4731-a770-6a5c39a327e9"
+      },
+      "router": {}
+    },
+    "owner": "bibblebabl"
   }
 }
