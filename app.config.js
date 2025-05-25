@@ -1,6 +1,6 @@
 const accountName = "bibblebabl";
 const projectName = "expo-router-forms-components";
-const appName = "Expo Router Forms Components";
+const appName = "ERFC";
 
 const identifiers = {
   development: `com.${accountName}.${projectName}.dev`,
